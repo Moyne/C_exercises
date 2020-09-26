@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1601158726 source:c:\users\moyne\onedrive\desktop\c exercises\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
