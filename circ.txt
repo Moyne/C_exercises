@@ -1,0 +1,5 @@
+G G0 0 1 x v 5 x
+R R0 1 2 x x v 1000
+R R1 2 0 x x v 5000
+R R2 2 3 x x v 1500
+R R3 3 0 x x v 5000
